@@ -1,0 +1,35 @@
+[
+  {
+    "id": "product_001",
+    "name": "Dark Chocolate Premium",
+    "price": 45.99,
+    "utm_source": "organic_search",
+    "utm_medium": "search",
+    "utm_campaign": "dark_chocolate",
+    "utm_content": "premium_blend",
+    "category": "Dark Chocolate",
+    "lastUpdated": "2026-01-14T14:00:00Z"
+  },
+  {
+    "id": "product_002",
+    "name": "Milk Chocolate Deluxe",
+    "price": 39.99,
+    "utm_source": "social_media",
+    "utm_medium": "instagram",
+    "utm_campaign": "milk_chocolate",
+    "utm_content": "featured",
+    "category": "Milk Chocolate",
+    "lastUpdated": "2026-01-14T14:00:00Z"
+  },
+  {
+    "id": "product_003",
+    "name": "White Chocolate Collection",
+    "price": 34.99,
+    "utm_source": "email",
+    "utm_medium": "newsletter",
+    "utm_campaign": "white_chocolate",
+    "utm_content": "promo",
+    "category": "White Chocolate",
+    "lastUpdated": "2026-01-14T14:00:00Z"
+  }
+]
